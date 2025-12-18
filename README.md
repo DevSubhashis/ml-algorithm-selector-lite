@@ -4,7 +4,7 @@
 A lightweight, interactive **React-based decision engine** that helps you choose the **right Machine Learning algorithm** based on **EDA insights and dataset characteristics**.
 
 🔗 **Live Demo:**  
-https://github.com/DevSubhashis/ml-algorithm-selector-lite
+https://guileless-pegasus-b0a144.netlify.app
 
 ---
 
