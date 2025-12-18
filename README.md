@@ -1,5 +1,5 @@
 # 🧠 ML Algorithm Selector Lite  
-### EDA → ML Algorithm Decision Engine
+> EDA → ML Algorithm Decision Engine
 
 A lightweight, interactive **React-based decision engine** that helps you choose the **right Machine Learning algorithm** based on **EDA insights and dataset characteristics**.
 
